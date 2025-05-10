@@ -22,3 +22,57 @@ INITIAL WEB PAGE CREATED
 
 This is the outcome of the web page created.
 ![InitialWebPage](./img/4.InitialWebpage.png)
+
+STAGE COMMIT AND PUSH DIRECTLY TO MAIN BRANCH
+
+Staging and commiting codes and pushing to remote repository
+![StateCommitPushCode](./img/5.StagingCommit&PushingProjectToRemoteRepo.png)
+![CodePushed](./img/6.ProjectPushedToRemoteRepo.png)
+
+INVITATION TO CONTRIBUTORS MORGAN AND JAMIE
+
+Invite were send to Morgan and Jamie as contributor to the website creation
+![ContributorsInvitation](./img/7.Morgan&JamieInvitationAsContributors.png)
+
+MORGAN ACCEPTED INVITATION AS CONTRIBUTOR
+
+Invite sent to Morgan accepted to contribute it quotas to the main project
+![AcceptanceOfInvitation](./img/8.MorganAcceptingInvitation.png)
+![](./img/9.MorganAcceptInviteOnGitHub.png)
+
+MORGAN CLONED AND CREATE BRANCH ADD BOOK REVIEWS
+
+Morgan copied and cloned repository and created branch add-book-review
+![morganClonedCreateBranch](./img/10.MorganClonedAndCreateBranch.png)
+
+MORGAN UPDATED BOOK REVIEWS BRANCH
+
+![](./img/11.MorganUpdatingBookReviewCode.png)
+
+MORGAN STAGE COMMIT AND PUSH BOOK REVIEWS SECTION TO MAIN BRANCH FOR REVIEW
+![MorganStageCommitPush](./img/12.MorganStagePushCommitBookReviewsSection.png)
+
+PULL REQUEST OF MORGAN CONTRIBUTION FOR REVIEW
+
+This state, the book reviews section was pulled for review
+![CreatingPullRequest](./img/13.CreatePullRequestforMorganBranch.png)
+![](./img/14.MergeMorganPR.png)
+
+PULLREQUEST MERGED AFTER NO CONFLICT REVIEW
+![PullRequestMerged](./img/15.MergePR.png)
+![](./img/16.MorganPRMerged.png)
+
+JAMIE ACCEPT INVITATION
+
+Jmaie accepted invitation to co contribute on the project
+![JamieAcceptInvite](./img/17.JamieAcceptInvite.png)
+
+JAMIE COPIED AND CLONED REPOSITORY FOR REVIEW
+
+Jamied copied repo for cloning and work on event section
+![JamieClonedRepo](./img/18.JamieCopyandClonedRepo.png)
+
+JAMIE REVIEW AND UPDATED EVENT CODES
+
+![JamieUpdateEventsCode](./img/19.JamieUpdateEventsCode.png)
+![](./img/libraryeventpagdupdated.png)
